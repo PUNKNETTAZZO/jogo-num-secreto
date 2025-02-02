@@ -1,6 +1,6 @@
 
 let listaNumerosSorteados = [];
-let espacoAmostral = 25;
+let espacoAmostral = 100;
 let numeroSecreto = gerarNumero();
 let tentativas = 1
 
